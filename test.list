@@ -1,0 +1,10 @@
+###################################################
+# If line empty or first char is a #, ignore line #
+###################################################
+
+# Custom Test
+https://www.heise.de
+https://www.google.com
+https://www.facebook.com
+https://www.tldr.comcom
+http://www.spiegel.de
